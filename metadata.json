@@ -1,0 +1,6 @@
+{
+  "name": "CPR Command",
+  "description": "ระบบบันทึกการช่วยฟื้นคืนชีพ (CPR Record) และแดชบอร์ดติดตามสถานะงานแบบเรียลไทม์ พร้อมแจ้งเตือนและซิงค์ออฟไลน์อัตโนมัติ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
